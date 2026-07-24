@@ -1,0 +1,46 @@
+#EXTM3U
+
+# বাংলা
+#EXTINF:-1 group-title="Bangla",BTV World
+https://stream.ecable.tv/btv-world/index.m3u8
+
+#EXTINF:-1 group-title="Bangla",Bangladesh Channels
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u
+
+#EXTINF:-1 group-title="Bangla",Bengali Language Channels
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ben.m3u
+
+# ইসলামিক
+#EXTINF:-1 group-title="Islamic",Makkah Live HD
+https://stream.ecable.tv/makkah-live/index.m3u8
+
+#EXTINF:-1 group-title="Islamic",Madinah Live HD
+https://stream.ecable.tv/madinah-live/index.m3u8
+
+#EXTINF:-1 group-title="Islamic",Religious Channels
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/religious.m3u
+
+# হিন্দি
+#EXTINF:-1 group-title="Hindi",Hindi Channels
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hin.m3u
+
+#EXTINF:-1 group-title="Hindi",Hindi Music
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/music.m3u
+
+# পাকিস্তানি
+#EXTINF:-1 group-title="Pakistani",Pakistan Channels
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pk.m3u
+
+# ডকুমেন্টারি
+#EXTINF:-1 group-title="Documentary",Documentary Channels
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/documentary.m3u
+
+# কার্টুন
+#EXTINF:-1 group-title="Cartoons",Toon Goggles
+https://toon-goggles-1.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cartoons",Duck TV
+https://ducktv-ducktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cartoons",Kids Channels
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kids.m3u
